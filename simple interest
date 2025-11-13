@@ -1,0 +1,5 @@
+P=int(input("enter the principal amt:"))
+N= int(input("enter the number of years:"))
+R=int(input("enter the rate of interest:"))
+si=(P*N*R)/100
+print("simple interest:",si)
